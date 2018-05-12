@@ -1,0 +1,37 @@
+_repo: The-African-Colony--Studies-in-the-Reconstruction_34548
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Buchan, John
+    alias: Tweedsmuir, John Buchan, Baron
+    birthdate: 1875
+    deathdate: 1940
+    gutenberg_agent_id: '285'
+    url: http://www.gutenberg.org/2009/agents/285
+    wikipedia: http://en.wikipedia.org/wiki/John_Buchan,_1st_Baron_Tweedsmuir
+description: Author and diplomat John Buchan lived a remarkable life, achieving prominence
+  and success in a number of fields -- often simultaneously. Soon after embarking
+  on an administrative career in Africa, Buchan began writing fiction and non-fiction,
+  endeavors he would continue throughout his life, even after he was elected to Parliament.
+  The essays and remembrances collected in The African Colony cover the time Buchan
+  spent there and his impressions of Britain's mission and future role on ...
+gutenberg_issued: '2010-12-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34548'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'South Africa -- Politics and government'
+- !lcsh 'South Africa -- Economic conditions'
+- !lcsh 'South Africa -- History'
+- !lcsh 'South Africa -- Description and travel'
+- !lcc 'DT'
+- !lcsh 'Great Britain -- Colonies -- Africa'
+title: 'The African Colony: Studies in the Reconstruction'
+url: http://www.gutenberg.org/ebooks/34548
